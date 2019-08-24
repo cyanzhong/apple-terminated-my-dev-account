@@ -6,7 +6,7 @@ I became an iOS developer in 2013, since then, I developed many iOS/macOS apps. 
 
 I am not trying to show off, but in the past few years, I have built a good reputation in the industry, at least in my country. Here are some achievements that I wanted to show you:
 
-- Best of App Store 2016 (China, the third place, and the only one indie developer among all winners)
+- Best of App Store 2016 (China, the third place, and the only indie developer among all winners)
 - Featured by app store for many times (I don't remember the accurate number, but at least it's about 30+ times)
 - Featured by the "Today" stories
 - Achieved 1M users (It's not easy as an indie project, just by myself)
@@ -35,7 +35,7 @@ Yeah, from 2013 to 2019, it wasn't too long, also not too short. I am already ki
 
 However, could you please tell me the specific reason? I don't want to leave like a bad person! I have to figure out what's wrong.
 
-Even I want to move forward for something else, I want the last piece on my mind the entire journey is pleasant, not something like this.
+Even I want to move forward for something else, I want the last piece on my mind of the entire journey is pleasant, not something like this.
 
 If you have any resources that could help, I appreciate if you contact me with: 0x00eeee@gmail.com Thank you!
 

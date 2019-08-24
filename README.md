@@ -8,7 +8,7 @@ I am not trying to show off, but in the past few years, I have built a good repu
 
 - Best of App Store 2016 (China, the third place, and the only indie developer among all winners)
 - Featured by app store for many times (I don't remember the accurate number, but it's at least 30+ times)
-- Featured by the "Today" stories
+- Featured by "Today" stories
 - Achieved 1M users (It's not easy as an indie project, just by myself)
 
 I have been working on my apps so hard to make them better, but things changed today.

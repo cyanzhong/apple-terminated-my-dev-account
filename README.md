@@ -7,7 +7,7 @@ I became an iOS developer in 2013, since then, I developed many iOS/macOS apps. 
 I am not trying to show off, but in the past few years, I have built a good reputation in the industry, at least in my country. Here are some achievements that I wanted to show you:
 
 - Best of App Store 2016 (China, the third place, and the only indie developer among all winners)
-- Featured by app store for many times (I don't remember the accurate number, but at least it's about 30+ times)
+- Featured by app store for many times (I don't remember the accurate number, but it's at least 30+ times)
 - Featured by the "Today" stories
 - Achieved 1M users (It's not easy as an indie project, just by myself)
 
@@ -19,7 +19,7 @@ This morning, I received an email from Apple, I was told that my developer membe
 
 The letter says that I have fraudulent conduct, but I believe that's not true.
 
-I discussed this incident with some of my friends, and they told me if Apple wants to terminate any account, they will send a warning message to the developer, and there will be like 15 days for adjusting/arguing.
+I discussed this incident with some of my friends, and they told me if Apple wants to terminate any account, they will send a warning message to the developer, and there will be like 14 days for adjusting/arguing.
 
 Sometimes, Apple will remove an app from the App Store if the developer violated the agreement, but none of those happened to me.
 
@@ -43,6 +43,6 @@ If you have any resources that could help, I appreciate if you contact me with: 
 
 I don't feel so sorry about this, since I have done many interesting things in the past few years, it's pretty much enough for me. But I still want to share my story, as an "old" indie developer.
 
-The things happened to me, it will happen again to another indie hacker, who knows?
+The things happened to me, it will happen again to another indie hacker some day, who knows?
 
 Believe or not, the era of indie developers has passed.

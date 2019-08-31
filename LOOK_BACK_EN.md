@@ -24,7 +24,7 @@ So, I confirmed that my developer account is back.
 
 Unfortunately, Apple didn't tell me the exact reason (as you can expect). But I am afraid that it's related to some "irregular activity" connected to my account, let me tell you some background about it.
 
-I have an app called "JSBox", it is well known in my country, and it's widely shared as pirate copies. I don't expect people outside China can understand this: many people are using shared Apple IDs.
+I have an app called [JSBox](https://apps.apple.com/us/app/id1312014438), it is well known in my country, and it's widely shared as pirate copies. I don't expect people outside China can understand this: many people are using shared Apple IDs.
 
 There are many "account providers", they purchase paid apps, share the Apple ID and password to everyone, so developers only get paid once. In China, even some well-known companies are doing this (e.g. PP 助手 which is part of the Alibaba Inc). It's dangerous and illegal, I just want to point out this phenomenon without complaining too much.
 

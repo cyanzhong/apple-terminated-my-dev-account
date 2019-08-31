@@ -6,7 +6,7 @@ I shared this incident along with my story on GitHub and Hacker News, it could b
 
 After that, I discussed with some of my indie developer friends, and tried my best to reach out to some Apple employees.
 
-My story was widely propagated, I received a message from an Apple employee, I was told that my dev account has been re-enabled.
+My story was widely propagated, I received a message from an Apple employee (thanks), I was told that my dev account has been re-enabled.
 
 Thanks, everyone who helped me in exploring this, it is so hard to change Apple's decision. Thank you!
 

@@ -1,4 +1,4 @@
-UPDATE: My account has been re-enabled, I will share some details later.
+UPDATE: My account has been re-enabled, some details can be found here: [English](https://github.com/cyanzhong/apple-terminated-my-dev-account/blob/master/LOOK_BACK_EN.md), [Simplified Chinese](https://github.com/cyanzhong/apple-terminated-my-dev-account/blob/master/LOOK_BACK_CN.md).
 
 # Who am I?
 
